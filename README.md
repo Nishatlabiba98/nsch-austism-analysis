@@ -189,14 +189,7 @@ Results print in the terminal, and the charts appear in `images/`.
 - **Small groups are less reliable:** Some states or groups have only a few diagnosed children, so their rates can jump around.
 - **No significance testing yet:** Differences between groups have not been checked to see whether they could just be random chance.
 
-## What I Learned
 
-## Next Steps
-
-- [ ] Combine several survey years (2016 to 2024) to see trends over time
-- [ ] Draw a U.S. map of rates by state
-- [ ] Add confidence intervals to show how certain each number is
-- [ ] Build a simple interactive dashboard with Streamlit
 
 ## Credits
 
